@@ -1,6 +1,7 @@
 ### Hi there, I'm HRITHIK 👋
 
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
+<img src="https://tryhackme-badges.s3.amazonaws.com/hrithikmanoj.png" alt="TryHackMe">
 
 ## I'm a Cyber security enthusiast
 
@@ -10,4 +11,4 @@
 ### Connect with me:
 
 <a href="https://twitter.com/_nothrithik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_nothrithik" height="30" width="40" /></a>
-<img src="https://tryhackme-badges.s3.amazonaws.com/hrithikmanoj.png" alt="TryHackMe">
+
