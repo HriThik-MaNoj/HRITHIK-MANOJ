@@ -1,11 +1,10 @@
 ### Hi there, I'm HriThiK 👋
 
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
-<script src="https://tryhackme.com/badge/287337"></script>
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/hrithikmanoj.png" alt="TryHackMe">
 ## I'm a Cyber security enthusiast
 
-- 💬 Ask me about ethical hacking,web app pentesting 
+- 💬 Ask me about Ethical Hacking | Web Application Penetration Testing 
 - 📫 Reach me at hrithikmanoj000@gmail.com
 
 ### Connect with me:
