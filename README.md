@@ -1,4 +1,4 @@
-### Hi there, I'm HRITHIK 👋
+### Hi there, I'm HriThiK 👋
 
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 <img src="https://tryhackme-badges.s3.amazonaws.com/hrithikmanoj.png" alt="TryHackMe">
