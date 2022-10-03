@@ -23,7 +23,8 @@ I'm a Computer Science undergraduate student interested in Ethical hacking and p
 
 
 ### 📊 Stats
+![Hrithik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrithikmanoj&show_icons=true&theme=gruvbox)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/hrithikmanoj.png" alt="TryHackMe">
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=HriThik-MaNoj&theme=gruvbox&border_radius=4.5) -->
 
 
