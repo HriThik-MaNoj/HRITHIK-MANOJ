@@ -29,4 +29,5 @@ I'm a Computer Science undergraduate student interested in Ethical hacking and p
 
 ### 💻 Hacking
 <img src="https://tryhackme-badges.s3.amazonaws.com/hrithikmanoj.png" alt="TryHackMe">
+<script src="https://www.hackthebox.eu/badge/468416"></script>
 
