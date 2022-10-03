@@ -1,13 +1,34 @@
-### Hi there, I'm HriThiK 👋
+# 🏄‍♂️ HriTh!K M4nOj
 
-<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
+**`Digital Craftsman (Cyber security enthusiast/programmer)`**
+
+I'm a Computer Science undergraduate student interested in Ethical hacking and penetration testing.
+   <p align="left">
+      
+      <a href="https://github.com/HriThik-MaNoj?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      
+   </p>
+
+---
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
+
+#
+
+
+
+### 📊 Stats
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/hrithikmanoj.png" alt="TryHackMe">
-## I'm a Cyber security enthusiast
 
-- 💬 Ask me about Ethical Hacking | Web Application Penetration Testing 
-- 📫 Reach me at hrithikmanoj000@gmail.com
-
-### Connect with me:
-
-<a href="https://twitter.com/_nothrithik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_nothrithik" height="30" width="40" /></a>
 
