@@ -27,6 +27,6 @@ I'm a Computer Science undergraduate student interested in Ethical hacking and p
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=HriThik-MaNoj&theme=gruvbox&border_radius=4.5) -->
 
-### Hacking
+###🐱‍💻 Hacking
 <img src="https://tryhackme-badges.s3.amazonaws.com/hrithikmanoj.png" alt="TryHackMe">
 
