@@ -35,7 +35,7 @@ I am a cyber security and ethical hacking enthusiast with a strong background in
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=HriThik-MaNoj&theme=gruvbox&border_radius=4.5) -->
 
-### 💻 Acheivements
+### 💻 Achievements
 <img src="https://tryhackme-badges.s3.amazonaws.com/hrithikmanoj.png" alt="TryHackMe">
 
 
