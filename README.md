@@ -20,6 +20,10 @@ I am a cyber security and ethical hacking enthusiast with a strong background in
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/rust/rust-plain.svg" />
 <br />
+### Connect with me:
+
+<a href="https://www.instagram.com/hri7hik_m4n0j/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hri7hik_m4n0j" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hrithik-manoj-850660204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="Hrithik Manoj " height="30" width="40" /></a>
 
 #
 
