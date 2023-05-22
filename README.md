@@ -25,6 +25,9 @@ I am a cyber security and ethical hacking enthusiast with a strong background in
 
 <a href="https://www.instagram.com/hri7hik_m4n0j/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hri7hik_m4n0j" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/hrithik-manoj-850660204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="Hrithik Manoj " height="30" width="40" /></a>
+<a href="https://twitter.com/_nothrithik" target="blank"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" height="30" width="40" /></a>
+
+#
 
 #
 
