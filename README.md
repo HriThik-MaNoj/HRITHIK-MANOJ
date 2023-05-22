@@ -2,7 +2,9 @@
 
 **`Digital Craftsman (Cyber security enthusiast/programmer)`**
 
-I'm a Computer Science undergraduate student interested in Ethical hacking and penetration testing.
+I am a cyber security and ethical hacking enthusiast with a strong background in computer science engineering. I have a deep understanding of computer systems and networks, and I am skilled in programming and scripting. I am also a quick learner and I am always up for a challenge. I am always looking for new challenges and opportunities to learn and grow.
+
+
    
 
 ---
@@ -16,6 +18,7 @@ I'm a Computer Science undergraduate student interested in Ethical hacking and p
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/rust/rust-plain.svg" />
 <br />
 
 #
