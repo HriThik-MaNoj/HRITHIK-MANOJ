@@ -5,8 +5,7 @@
 I am a cyber security and ethical hacking enthusiast with a strong background in computer science engineering. I have a deep understanding of computer systems and networks, and I am skilled in programming and scripting. I am also a quick learner and I am always up for a challenge. I am always looking for new challenges and opportunities to learn and grow.
 
 
-- 📫 Reach me at nandhaarya66@gmail.com   
-
+- 📫 Reach me at hrithikmanoj000@gmail.com
 ---
 
 ### 🧰 Languages and Tools
@@ -20,6 +19,8 @@ I am a cyber security and ethical hacking enthusiast with a strong background in
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/rust/rust-plain.svg" />
 <br />
+
+
 ### Connect with me:
 
 <a href="https://www.instagram.com/hri7hik_m4n0j/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hri7hik_m4n0j" height="30" width="40" /></a>
